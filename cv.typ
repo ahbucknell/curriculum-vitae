@@ -47,7 +47,7 @@ PhD candidate in molecular plant-microbe interactions at The Sainsbury Laborator
 #line(length: 100%, stroke: 0.5pt + gray)
 
 *PhD Candidate* #h(1fr) *Oct 2023 - Present*\
-_The Sainsbury Laboratory / University of East Anglia, Norwich, UK_\
+_The Sainsbury Laboratory, Norwich, UK_\
 _Supervisor: Prof. Nick Talbot_
 - Novel protein design in the _Magnaporthe oryzae_ pathosystem
 
@@ -61,7 +61,7 @@ _Supervisor: Dr. Lisa Crossman_
 
 #v(0.6em)
 
-*MSci Student* #h(1fr) *Sep 2022 - May 2023*\
+*MSci Researcher* #h(1fr) *Sep 2022 - May 2023*\
 _School of Biosciences, University of Birmingham, UK_\
 _Supervisor: Dr. Megan McDonald_
 - Designed custom plasmids to screen for transposition events in _Bipolaris sorokiniana_
@@ -94,30 +94,29 @@ _Supervisor: Dr. Marco Catoni_
 _University of East Anglia, Norwich, UK_\
 Thesis: Investigating _Magnaporthe oryzae_ effectors through _de novo_
 protein binders\
+Funded through the #link("https://gtr.ukri.org/projects?ref=BB/T008717/1")[NRPDTP (BBSRC grant BB/T008717/1)]\
 
 #v(0.6em)
 
 *MSci in Biosciences (1:1 with Honours)* #h(1fr) *2019 - 2023*\
-_University of Birmingham, UK_\
-Dissertation:
+_University of Birmingham, UK_
 
-// Publications
+// Publications & Preprints
 
 #v(1em)
-#text(size: 13pt, weight: "bold", fill: accent-color)[PRE-PRINTS]
+#text(size: 13pt, weight: "bold", fill: accent-color)[PUBLICATIONS & PREPRINTS]
 #line(length: 100%, stroke: 0.5pt + gray)
+
+#text(size: 9pt, style: "italic")[\* indicates co-authorship]
+#v(0.3em)
 
 1. Tagirdzhanova, G., Brown, N.E., *Bucknell, A.H.*, Cameron, E.S., Finn, R.D., Blaxter, M., McDonald, M.C., Gluck-Thaler, E., and Talbot, N.J. (2025). Tangerine: a new family of Starships from lichen-forming fungi. _bioRxiv_. doi: 10.1101/2025.11.25.690456
 
-#v(1em)
-#text(size: 13pt, weight: "bold", fill: accent-color)[PUBLICATIONS]
-#line(length: 100%, stroke: 0.5pt + gray)
+2. *Bucknell, A.H.*\*, Wilson, H.M.\*, Gonçalves do Santos, K.C., Simpfendorfer, S., Milgate, A., Germain, H., Solomon, P.S., Bentham, A.R., and McDonald, M.C. (2025). Sanctuary: A Starship transposon facilitating the movement of the virulence factor ToxA in fungal wheat pathogens. _mBio_. doi: 10.1128/mbio.01371-25
 
-3. *Bucknell, A.H.*\*, Wilson, H.M.\*, Gonçalves do Santos, K.C., Simpfendorfer, S., Milgate, A., Germain, H., Solomon, P.S., Bentham, A.R., and McDonald, M.C. (2025). Sanctuary: A Starship transposon facilitating the movement of the virulence factor ToxA in fungal wheat pathogens. _mBio_. doi: 10.1128/mbio.01371-25
+3. Tagirdzhanova, G., Scharnagl, K., Sahu, N., Yan, X., *Bucknell, A.H.*, Bentham, A.R., Jégousse, C., Ament-Velàsquez, S.L., Brännström, I.O., Johannesson, H., MacLean, D., and Talbot, N.J. (2024). Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. _Current Biology_, 35. doi:10.1016/j.cub.2024.12.041
 
-2. Tagirdzhanova, G., Scharnagl, K., Sahu, N., Yan, X., *Bucknell, A.H.*, Bentham, A.R., Jégousse, C., Ament-Velàsquez, S.L., Brännström, I.O., Johannesson, H., MacLean, D., and Talbot, N.J. (2024). Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. _Current Biology_, 35. doi:10.1016/j.cub.2024.12.041
-
-1. *Bucknell, A.H.* and McDonald, M.C. (2023). That's no moon, it's a Starship: Giant transposons driving fungal horizontal gene transfer. _Molecular Microbiology_, 120, 555-563. doi:10.1111/mmi.15118
+4. *Bucknell, A.H.* and McDonald, M.C. (2023). That's no moon, it's a Starship: Giant transposons driving fungal horizontal gene transfer. _Molecular Microbiology_, 120, 555-563. doi:10.1111/mmi.15118
 
 // Conferences
 #v(1em)
@@ -125,27 +124,27 @@ Dissertation:
 #line(length: 100%, stroke: 0.5pt + gray)
 
 *Oral Presentations:*
-- "AI-driven protein design to understand effector function within the _Magnaporthe oryzae_ rice pathosystem" - _33rd Fungal Genetics Conference_, Pacific Grove, US (2026)
+- AI-driven protein design to understand effector function within the _Magnaporthe oryzae_ rice pathosystem - _33rd Fungal Genetics Conference_, Pacific Grove, US (2026)
 
-- "Engineering new-to-nature immune sensors for novel recognition of effectors in plant pathosystems" - _20th IS-MPMI Congress_, Cologne, DE (2025)
+- Engineering new-to-nature immune sensors for novel recognition of effectors in plant pathosystems - _20th IS-MPMI Congress_, Cologne, DE (2025)
 
-- "Developing new-to-nature protein binders for the _M. oryzae_ pathosystem" - _Advancing Plant Health Forum_, Norwich, UK (2024)
+- Developing new-to-nature protein binders for the _M. oryzae_ pathosystem - _Advancing Plant Health Forum_, Norwich, UK (2024)
 
-- "Using structural homology predictions to infer biological function of effector proteins during plant infections" - _NRPDTP Summer Conference_, Norwich, UK (2024)
+- Using structural homology predictions to infer biological function of effector proteins during plant infections - _NRPDTP Summer Conference_, Norwich, UK (2024)
 
-- "_In silico_ characterisation of _Magnaporthe_ effector proteins" - _Magnafest_, Pacific Grove, US (2024)
+- _In silico_ characterisation of _Magnaporthe_ effector proteins - _Magnafest_, Pacific Grove, US (2024)
 
 #v(1em)
 
 *Poster Presentations:*
 
-- "AI-driven protein design to understand effector function within the _Magnaporthe oryzae_ rice pathosystem" - _Mendel Early Career Symposium_, Vienna, AT (2026). doi:10.5281/zenodo.20525051
+- AI-driven protein design to understand effector function within the _Magnaporthe oryzae_ rice pathosystem - _Mendel Early Career Symposium_, Vienna, AT (2026). doi:10.5281/zenodo.20525051
 
-- "Structural bioinformatics to understand effector function within the _Magnaporthe oryzae_ rice pathosystem" - _33rd Fungal Genetics Conference_, Pacific Grove, US (2026). doi:10.5281/zenodo.20525685
+- Structural bioinformatics to understand effector function within the _Magnaporthe oryzae_ rice pathosystem - _33rd Fungal Genetics Conference_, Pacific Grove, US (2026). doi:10.5281/zenodo.20525685
 
-- "Engineering new-to-nature immune sensors for novel recognition of _Magnaporthe oryzae_" - _20th IS-MPMI Congress_, Cologne, DE (2025). doi:10.5281/zenodo.15880523
+- Engineering new-to-nature immune sensors for novel recognition of _Magnaporthe oryzae_ - _20th IS-MPMI Congress_, Cologne, DE (2025). doi:10.5281/zenodo.15880523
 
-- "Finding function through form: predicting effector function in the blast fungus through structural biology" - _32nd Fungal Genetics Conference_, Pacific Grove, US (2024). doi:10.5281/zenodo.10793245
+- Finding function through form: predicting effector function in the blast fungus through structural biology - _32nd Fungal Genetics Conference_, Pacific Grove, US (2024). doi:10.5281/zenodo.10793245
 
 // Committee Roles & Service
 #v(1em)
@@ -168,11 +167,6 @@ Dissertation:
 *Peer Review:*
 - Reviewer for _Nature Communications_
 
-#v(0.6em)
-
-*Professional Memberships:*
-- Member, Genetics Society of America (2024 - Present)
-
 // Science Communication
 #v(1em)
 #text(size: 13pt, weight: "bold", fill: accent-color)[SCIENCE COMMUNICATION]
@@ -189,7 +183,7 @@ Dissertation:
 #v(0.6em)
 
 *Stakeholder Engagement:*
-- Presented to senior civil servants from the Environmental Agency and the Department for Energy Security and Net Zero (2025)
+- Presented to senior civil servants from the Environment Agency and the Department for Energy Security and Net Zero (2025)
 // Skills
 #v(1em)
 #text(size: 13pt, weight: "bold", fill: accent-color)[SKILLS]
