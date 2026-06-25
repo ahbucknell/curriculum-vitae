@@ -26,7 +26,7 @@ jobs:
       - uses: typst-community/setup-typst@v3
 
       - name: Compile cv.typ to cv.pdf
-        run: typst compile cv.typ cv.pdf
+        run: typst compile --font-path fonts cv.typ cv.pdf
 
       - name: Prepare Pages artifact
         run: |
