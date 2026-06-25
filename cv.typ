@@ -104,19 +104,21 @@ PhD candidate in molecular plant-microbe interactions at The Sainsbury Laborator
 ]
 
 // ─── Education ────────────────────────────────────────────
-#section-header[Education]
+#block(breakable: false)[
+  #section-header[Education]
 
-#entry-head[PhD in Molecular Plant-Microbe Interactions][Oct 2023 -- present]
-#text(size: 9.5pt, fill: ink-muted)[University of East Anglia, Norwich, UK]
-#v(0.3em)
-#text(size: 9.5pt)[
-  Thesis: Investigating #emph[Magnaporthe oryzae] effectors through #emph[de novo] protein binders \
-  Funded through the #link("https://gtr.ukri.org/projects?ref=BB/T008717/1")[NRPDTP (BBSRC grant BB/T008717/1)]
+  #entry-head[PhD in Molecular Plant-Microbe Interactions][Oct 2023 -- present]
+  #text(size: 9.5pt, fill: ink-muted)[University of East Anglia, Norwich, UK]
+  #v(0.3em)
+  #text(size: 9.5pt)[
+    Thesis: Investigating #emph[Magnaporthe oryzae] effectors through #emph[de novo] protein binders \
+    Funded through the #link("https://gtr.ukri.org/projects?ref=BB/T008717/1")[NRPDTP (BBSRC grant BB/T008717/1)]
+  ]
+
+  #v(0.8em)
+  #entry-head[MSci in Biosciences (1:1 with Honours)][2019 -- 2023]
+  #text(size: 9.5pt, fill: ink-muted)[University of Birmingham, UK]
 ]
-
-#v(0.8em)
-#entry-head[MSci in Biosciences (1:1 with Honours)][2019 -- 2023]
-#text(size: 9.5pt, fill: ink-muted)[University of Birmingham, UK]
 
 // ─── Publications & Preprints ─────────────────────────────
 #section-header[Publications \& Preprints]
@@ -161,19 +163,21 @@ PhD candidate in molecular plant-microbe interactions at The Sainsbury Laborator
 ]
 
 // ─── Committee Roles & Service ────────────────────────────
-#section-header[Committee Roles \& Service]
+#block(breakable: false)[
+  #section-header[Committee Roles \& Service]
 
-#subheading[Departmental Service]
-#text(size: 9.5pt)[
-  - Member of the TSL MSc Selection Committee (2026)
-  - Member of the NRPDTP Summer Conference Organisation Committee (2026)
-  - Member of the TSL Awards Selection Committee (2025)
-  - Treasurer of the TSL Student Committee (2024-2025)
-]
+  #subheading[Departmental Service]
+  #text(size: 9.5pt)[
+    - Member of the TSL MSc Selection Committee (2026)
+    - Member of the NRPDTP Summer Conference Organisation Committee (2026)
+    - Member of the TSL Awards Selection Committee (2025)
+    - Treasurer of the TSL Student Committee (2024-2025)
+  ]
 
-#subheading[Peer Review]
-#text(size: 9.5pt)[
-  - Reviewer for #emph[Nature Communications]
+  #subheading[Peer Review]
+  #text(size: 9.5pt)[
+    - Reviewer for #emph[Nature Communications]
+  ]
 ]
 
 // ─── Science Communication ────────────────────────────────
