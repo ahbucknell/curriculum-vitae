@@ -20,7 +20,7 @@
   #v(0.3em)
 
   #text(size: 11pt)[
-    PhD Candidate | Molecular Microbiology
+    PhD Candidate | Molecular Plant-Microbe Interactions
   ]
 
   #v(0.5em)
@@ -39,7 +39,7 @@
 #line(length: 100%, stroke: 0.5pt + gray)
 #v(0.5em)
 
-PhD candidate in molecular plant-microbe interactions at The Sainsbury Laboratory, using novel protein design and structural bioinformatics to decode effector function in the fungal blast pathogen _Magnaporthe oryzae_. Background in fungal transposon biology (_Starships_) and horizontal gene transfer, with 3 peer-reviewed publications and 1 preprint. Active in public engagement and science communication.
+PhD candidate in molecular plant-microbe interactions at The Sainsbury Laboratory, using novel protein design and structural bioinformatics to decode effector function in the fungal blast pathogen _Magnaporthe oryzae_. Background in fungal transposon biology (_Starships_) and horizontal gene transfer, with 4 publications and preprints. Active in public engagement and science communication.
 
 // Research Experience
 #v(1em)
@@ -47,7 +47,7 @@ PhD candidate in molecular plant-microbe interactions at The Sainsbury Laborator
 #line(length: 100%, stroke: 0.5pt + gray)
 
 *PhD Candidate* #h(1fr) *Oct 2023 - Present*\
-_The Sainsbury Laboratory, Norwich, UK_\
+_The Sainsbury Laboratory / University of East Anglia, Norwich, UK_\
 _Supervisor: Prof. Nick Talbot_
 - Novel protein design in the _Magnaporthe oryzae_ pathosystem
 
@@ -69,7 +69,7 @@ _Supervisor: Dr. Megan McDonald_
 
 #v(0.6em)
 
-*Summer School Student* #h(1fr) *Jul 2022 - Aug 2022*\
+*VBC Summer School Student* #h(1fr) *Jul 2022 - Aug 2022*\
 _Gregor Mendel Institute, Vienna BioCenter, AT_\
 _Supervisor: Dr. Arturo Marí-Ordóñez_
 - Constructed retrotransposon phylogenies via Bash and R
@@ -90,7 +90,7 @@ _Supervisor: Dr. Marco Catoni_
 #text(size: 13pt, weight: "bold", fill: accent-color)[EDUCATION]
 #line(length: 100%, stroke: 0.5pt + gray)
 
-*PhD in Molecular Microbiology* #h(1fr) *Oct 2023 - Present*\
+*PhD in Molecular Plant-Microbe Interactions* #h(1fr) *Oct 2023 - Present*\
 _University of East Anglia, Norwich, UK_\
 Thesis: Investigating _Magnaporthe oryzae_ effectors through _de novo_
 protein binders\
@@ -107,7 +107,7 @@ Dissertation:
 #text(size: 13pt, weight: "bold", fill: accent-color)[PRE-PRINTS]
 #line(length: 100%, stroke: 0.5pt + gray)
 
-1. Tagirdzhanova, G., *Bucknell, A.H.*, Cameron, E.S., Finn, R.D., Blaxter, M., McDonald, M.C., and Talbot, N.J. (2025). Tangerine: a Starship-like element in the genomes of Xanthoria lichen-forming fungi. _bioRxiv_. doi: 10.1101/2025.11.25.690456
+1. Tagirdzhanova, G., Brown, N.E., *Bucknell, A.H.*, Cameron, E.S., Finn, R.D., Blaxter, M., McDonald, M.C., Gluck-Thaler, E., and Talbot, N.J. (2025). Tangerine: a new family of Starships from lichen-forming fungi. _bioRxiv_. doi: 10.1101/2025.11.25.690456
 
 #v(1em)
 #text(size: 13pt, weight: "bold", fill: accent-color)[PUBLICATIONS]
@@ -125,7 +125,7 @@ Dissertation:
 #line(length: 100%, stroke: 0.5pt + gray)
 
 *Oral Presentations:*
-- "AI-driven protein design to understand effector function within the _Magnaporthe oryzae_ rice pathosystem" - _33rd Fungal Genetics Conference_, Asilomar Conference Grounds, US (2026)
+- "AI-driven protein design to understand effector function within the _Magnaporthe oryzae_ rice pathosystem" - _33rd Fungal Genetics Conference_, Pacific Grove, US (2026)
 
 - "Engineering new-to-nature immune sensors for novel recognition of effectors in plant pathosystems" - _20th IS-MPMI Congress_, Cologne, DE (2025)
 
@@ -133,17 +133,19 @@ Dissertation:
 
 - "Using structural homology predictions to infer biological function of effector proteins during plant infections" - _NRPDTP Summer Conference_, Norwich, UK (2024)
 
-- "In-silico characterisation of Magnaporthe effector proteins" - _Magnafest_, Asilomar Conference Grounds, US (2024)
+- "_In silico_ characterisation of _Magnaporthe_ effector proteins" - _Magnafest_, Pacific Grove, US (2024)
 
 #v(1em)
 
 *Poster Presentations:*
 
-- "Structural bioinformatics to understand effector function within the _Magnaporthe oryzae_ rice pathosystem" - _33rd Fungal Genetics Conference_, Asilomar Conference Grounds, US (2026)
+- "AI-driven protein design to understand effector function within the _Magnaporthe oryzae_ rice pathosystem" - _Mendel Early Career Symposium_, Vienna, AT (2026). doi:10.5281/zenodo.20525051
+
+- "Structural bioinformatics to understand effector function within the _Magnaporthe oryzae_ rice pathosystem" - _33rd Fungal Genetics Conference_, Pacific Grove, US (2026). doi:10.5281/zenodo.20525685
 
 - "Engineering new-to-nature immune sensors for novel recognition of _Magnaporthe oryzae_" - _20th IS-MPMI Congress_, Cologne, DE (2025). doi:10.5281/zenodo.15880523
 
-- "Finding function through form: predicting effector function in the blast fungus through structural biology" - _32nd Fungal Genetics Conference_, Asilomar Conference Grounds, US (2024). doi:10.5281/zenodo.10793245
+- "Finding function through form: predicting effector function in the blast fungus through structural biology" - _32nd Fungal Genetics Conference_, Pacific Grove, US (2024). doi:10.5281/zenodo.10793245
 
 // Committee Roles & Service
 #v(1em)
