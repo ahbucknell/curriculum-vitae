@@ -26,7 +26,7 @@
   #v(0.5em)
 
   #text(size: 9pt)[
-    angus.bucknell\@tsl.ac.uk | 0000-0001-6039-9330 | \@angusb.bsky.social
+    angus.bucknell\@tsl.ac.uk | 0000-0001-6039-9330 | \@ahbucknell.com
   ]
 ]
 
