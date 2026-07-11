@@ -55,7 +55,7 @@
 // ─── Summary ──────────────────────────────────────────────
 #section-header[Summary]
 
-PhD candidate in molecular plant-microbe interactions at The Sainsbury Laboratory, using novel protein design and structural bioinformatics to decode effector function in the fungal blast pathogen #emph[Magnaporthe oryzae]. Background in fungal transposon biology (#emph[Starships]) and horizontal gene transfer, with 4 publications and preprints. Active in public engagement and science communication.
+PhD candidate in molecular plant-microbe interactions at The Sainsbury Laboratory, using novel protein design and structural bioinformatics to decode effector function in the fungal blast pathogen #emph[Magnaporthe oryzae]. Background in fungal transposon biology (#emph[Starships]) and horizontal gene transfer, with 5 publications and preprints. Active in public engagement and science communication.
 
 // ─── Research Experience ─────────────────────────────────
 #section-header[Research Experience]
@@ -127,18 +127,22 @@ PhD candidate in molecular plant-microbe interactions at The Sainsbury Laborator
 #v(0.5em)
 
 #pub-item[1][
-  Tagirdzhanova, G., Brown, N.E., *Bucknell, A.H.*, Cameron, E.S., Finn, R.D., Blaxter, M., McDonald, M.C., Gluck-Thaler, E., and Talbot, N.J. (2025). Tangerine: a new family of Starships from lichen-forming fungi. #emph[bioRxiv]. #link("https://doi.org/10.1101/2025.11.25.690456")[doi: 10.1101/2025.11.25.690456]
+  Xi, Y., *Bucknell, A.H.*, Watson, J.L., Maqbool, A., Bennett, J.W., Goreshnik, I., Vafeados, D., Garcia Sanchez, M., Knight, G., Zdrzalek, R., Rodney, C.A., Saado, I., Stone, C.E., Turley, E.K., Yu, D.S., Gentle, A., Ryder, L.S., Yan, X., Were, V., Heddle, J.G., Baker, D., Emmrich, P.M.F., Talbot, N.J., Banfield, M.J., and Bentham, A.R. (2026). Computational design of de novo integrated domains enables rational control of pathogen effector recognition in plant NLR immune receptors. #emph[bioRxiv]. #link("https://doi.org/10.64898/2026.07.10.737686")[doi: 10.64898/2026.07.10.737686]
 ]
 #v(0.5em)
 #pub-item[2][
-  *Bucknell, A.H.*\*, Wilson, H.M.\*, Gonçalves do Santos, K.C., Simpfendorfer, S., Milgate, A., Germain, H., Solomon, P.S., Bentham, A.R., and McDonald, M.C. (2025). Sanctuary: A Starship transposon facilitating the movement of the virulence factor ToxA in fungal wheat pathogens. #emph[mBio]. #link("https://doi.org/10.1128/mbio.01371-25")[doi: 10.1128/mbio.01371-25]
+  Tagirdzhanova, G., Brown, N.E., *Bucknell, A.H.*, Cameron, E.S., Finn, R.D., Blaxter, M., McDonald, M.C., Gluck-Thaler, E., and Talbot, N.J. (2025). Tangerine: a new family of Starships from lichen-forming fungi. #emph[bioRxiv]. #link("https://doi.org/10.1101/2025.11.25.690456")[doi: 10.1101/2025.11.25.690456]
 ]
 #v(0.5em)
 #pub-item[3][
-  Tagirdzhanova, G., Scharnagl, K., Sahu, N., Yan, X., *Bucknell, A.H.*, Bentham, A.R., Jégousse, C., Ament-Velàsquez, S.L., Brännström, I.O., Johannesson, H., MacLean, D., and Talbot, N.J. (2024). Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. #emph[Current Biology], 35. #link("https://doi.org/10.1016/j.cub.2024.12.041")[doi:10.1016/j.cub.2024.12.041]
+  *Bucknell, A.H.*\*, Wilson, H.M.\*, Gonçalves do Santos, K.C., Simpfendorfer, S., Milgate, A., Germain, H., Solomon, P.S., Bentham, A.R., and McDonald, M.C. (2025). Sanctuary: A Starship transposon facilitating the movement of the virulence factor ToxA in fungal wheat pathogens. #emph[mBio]. #link("https://doi.org/10.1128/mbio.01371-25")[doi: 10.1128/mbio.01371-25]
 ]
 #v(0.5em)
 #pub-item[4][
+  Tagirdzhanova, G., Scharnagl, K., Sahu, N., Yan, X., *Bucknell, A.H.*, Bentham, A.R., Jégousse, C., Ament-Velàsquez, S.L., Brännström, I.O., Johannesson, H., MacLean, D., and Talbot, N.J. (2024). Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. #emph[Current Biology], 35. #link("https://doi.org/10.1016/j.cub.2024.12.041")[doi:10.1016/j.cub.2024.12.041]
+]
+#v(0.5em)
+#pub-item[5][
   *Bucknell, A.H.* and McDonald, M.C. (2023). That's no moon, it's a Starship: Giant transposons driving fungal horizontal gene transfer. #emph[Molecular Microbiology], 120, 555-563. #link("https://doi.org/10.1111/mmi.15118")[doi:10.1111/mmi.15118]
 ]
 
