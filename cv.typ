@@ -55,7 +55,7 @@
 // ─── Summary ──────────────────────────────────────────────
 #section-header[Summary]
 
-PhD candidate in molecular plant-microbe interactions at The Sainsbury Laboratory, using novel protein design and structural bioinformatics to decode effector function in the fungal blast pathogen #emph[Magnaporthe oryzae]. Background in fungal transposon biology (#emph[Starships]) and horizontal gene transfer, with 5 publications and preprints. Active in public engagement and science communication.
+PhD candidate in molecular plant-microbe interactions at The Sainsbury Laboratory, using novel protein design and structural bioinformatics to decode effector function in the fungal blast pathogen #emph[Magnaporthe oryzae]. Background in fungal transposon biology (#emph[Starships]) and horizontal gene transfer. Active in public engagement and science communication.
 
 // ─── Research Experience ─────────────────────────────────
 #section-header[Research Experience]
@@ -127,11 +127,11 @@ PhD candidate in molecular plant-microbe interactions at The Sainsbury Laborator
 #v(0.5em)
 
 #pub-item[1][
-  Xi, Y., *Bucknell, A.H.*, Watson, J.L., Maqbool, A., Bennett, J.W., Goreshnik, I., Vafeados, D., Garcia Sanchez, M., Knight, G., Zdrzalek, R., Rodney, C.A., Saado, I., Stone, C.E., Turley, E.K., Yu, D.S., Gentle, A., Ryder, L.S., Yan, X., Were, V., Heddle, J.G., Baker, D., Emmrich, P.M.F., Talbot, N.J., Banfield, M.J., and Bentham, A.R. (2026). Computational design of de novo integrated domains enables rational control of pathogen effector recognition in plant NLR immune receptors. #emph[bioRxiv]. #link("https://doi.org/10.64898/2026.07.10.737686")[doi: 10.64898/2026.07.10.737686]
+  Tagirdzhanova, G., Brown, N.E.\*, *Bucknell, A.H.*\*, Cameron, E.S., Finn, R.D., Blaxter, M., McDonald, M.C., Gluck-Thaler, E., and Talbot, N.J. (2026). Tangerine: a new family of Starships from lichen-forming fungi. #emph[PNAS]. #link("https://doi.org/10.1073/pnas.2534402123")[doi: 10.1073/pnas.2534402123]
 ]
 #v(0.5em)
 #pub-item[2][
-  Tagirdzhanova, G., Brown, N.E., *Bucknell, A.H.*, Cameron, E.S., Finn, R.D., Blaxter, M., McDonald, M.C., Gluck-Thaler, E., and Talbot, N.J. (2025). Tangerine: a new family of Starships from lichen-forming fungi. #emph[bioRxiv]. #link("https://doi.org/10.1101/2025.11.25.690456")[doi: 10.1101/2025.11.25.690456]
+  Xi, Y., *Bucknell, A.H.*, Watson, J.L., Maqbool, A., Bennett, J.W., Goreshnik, I., Vafeados, D., Garcia Sanchez, M., Knight, G., Zdrzalek, R., Rodney, C.A., Saado, I., Stone, C.E., Turley, E.K., Yu, D.S., Gentle, A., Ryder, L.S., Yan, X., Were, V., Heddle, J.G., Baker, D., Emmrich, P.M.F., Talbot, N.J., Banfield, M.J., and Bentham, A.R. (2026). Computational design of de novo integrated domains enables rational control of pathogen effector recognition in plant NLR immune receptors. #emph[bioRxiv]. #link("https://doi.org/10.64898/2026.07.10.737686")[doi: 10.64898/2026.07.10.737686]
 ]
 #v(0.5em)
 #pub-item[3][
